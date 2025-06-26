@@ -1,6 +1,4 @@
-'''
-Bài tập tự luyện
-Để quản lý biên lai thu tiền điện, người ta cần các thông tin sau:
+
 - Với mỗi biên lai: Thông tin về hộ sử dụng điện, chỉ số điện cũ, chỉ số mới, số tiền phải trả.
 - Các thông tin riêng của từng hộ gia đình sử dụng điện: Họ tên chủ hộ, số nhà, mã số công tơ điện.
 *Yêu cầu 1: Hãy xây dựng lớp khachHang để lưu trữ các thông tin riêng của mỗi hộ gia đình.
